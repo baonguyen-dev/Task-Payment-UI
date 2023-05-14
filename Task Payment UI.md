@@ -30,4 +30,4 @@
 	
 	![](_attachments/Screenshot%202023-05-13%20at%2011.32.44.png)
 5. How to custom a base control to correct with design of each company (eg: Task)
-		Checkout for ButtonWithVectorIcon to know how to create new custon control to adapt with new design
+		Checkout for *ButtonWithVectorIcon* to know how to create new custon control to adapt with new design
