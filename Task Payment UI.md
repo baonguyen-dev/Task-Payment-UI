@@ -16,10 +16,10 @@
 	![](_attachments/Screenshot%201.png)
 	
 	*Note* 
-	Current application using scaleable dp lib for define dimen so when you want to create 20dp instead of: 
-	`<dimen name="base_screen_padding">20dp</dimen>` 
-	use  
-	`<dimen name="base_screen_padding">@dimen/_20sdp</dimen>` 
+	Current application using scaleable dp lib for define dimen so when you want to create 20dp instead of:  
+	`<dimen name="base_screen_padding">20dp</dimen>`  
+	use   
+	`<dimen name="base_screen_padding">@dimen/_20sdp</dimen>`  
 	s is stand for scalable
 3. **All reusable dimen, color, drawable, etc. must put in BaseControl project**
 	
