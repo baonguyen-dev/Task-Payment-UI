@@ -9,9 +9,9 @@
 	- DroidApp: is the application project that you need to select when want to run app
 	**NOTE: Applying this structure for reusable purpose, each company will have different UI folder, currently having StandardUI and TaskUI and will have more in the future**
 2. Convert from Figma px to dp or sp: 
-	ex: selected dpi is 320 and px want to convert is 40
-	px = dp * (dpi/160)
-	dp = px / (dpi / 160) = 40 / (320/160) = 20
+	ex: selected dpi is 320 and px want to convert is 40.  
+	px = dp * (dpi/160)  
+	dp = px / (dpi / 160) = 40 / (320/160) = 20  
 	ex: If you want to set px 40 you need to define 20dp margin in code if your device setup is 320dpi
 	![](_attachments/Screenshot%201.png)
 	
