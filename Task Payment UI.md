@@ -29,5 +29,6 @@
 4. Specific dimen for TaskUI (not use for all app) must define in TaskDroidUI resources folder
 	
 	![](_attachments/Screenshot%202023-05-13%20at%2011.32.44.png)
-5. How to custom a base control to correct with design of each company (eg: Task)
+5. How to custom a base control to correct with design of each company (eg: Task)  
+		Add the control that you want to override in CommonUI project for both DroidApp and ShellContainerApp can reuse. In the DroidUI and ShellUI project reference to CommonUI project to create xml file layout based on created control,
 		Checkout for *ButtonWithVectorIcon* to know how to create new custon control to adapt with new design
